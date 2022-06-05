@@ -852,4 +852,4 @@ function exportToPDF() {
     doc.addImage(img,'JPEG',pan.style.height,pan.style.width);
     doc.save('filename.pdf');
  });
-}
+}f
